@@ -1,6 +1,7 @@
+// manifest.json
 {
-  "name": "Advanced Secondary School",
-  "short_name": "School",
+  "name": "نظام المدرسة المتقدم",
+  "short_name": "المدرسة",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#0F3D5E",
